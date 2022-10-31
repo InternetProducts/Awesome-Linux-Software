@@ -865,6 +865,7 @@ the WebKit rendering engine.
 - [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) [MarkText](https://marktext.app/) - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.
 - [![Open-Source Software][OSS Icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM).
 - [![Open-Source Software][OSS Icon]](https://github.com/retext-project/retext) [Retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
+- [Revisionary](https://revisionary.xyz) - A minimalist grammar checker (and word processor) that displays suggestions one screen-at-a-time. Optimized for keyboards. No mouse required.
 - [Typora](https://typora.io/) - A Minimal markdown editor.
 
 #### Novel Writing
